@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hfridland/react-movies/static/css/main.954e7325.css",
+    "main.js": "/hfridland/react-movies/static/js/main.06425cc0.js",
+    "index.html": "/hfridland/react-movies/index.html",
+    "main.954e7325.css.map": "/hfridland/react-movies/static/css/main.954e7325.css.map",
+    "main.06425cc0.js.map": "/hfridland/react-movies/static/js/main.06425cc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954e7325.css",
+    "static/js/main.06425cc0.js"
+  ]
+}
